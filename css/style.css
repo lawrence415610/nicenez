@@ -82,7 +82,7 @@ body {
 	padding: 10% 0 0% 0;
 }
 .bg_mask h1{
-	font-size: 60px;
+	font-size: 50px;
 }
 .bg_mask p{
 	font-size: 20px;
@@ -1285,7 +1285,7 @@ button::-moz-focus-inner {
 	width: 200px;
 	}
 	header h1 {
-	font-size: 17px;
+	font-size: 30px;
 	}
 	header p {
 	font-size: 0.9em;
