@@ -1224,9 +1224,7 @@ button::-moz-focus-inner {
 	#undefined-sticky-wrapper > nav > div > div.social_icons {
 	display: none;
 	}
-	.top-grid:nth-child(1),.grid_of_1:nth-child(4),.grid1:nth-child(3),.grid1:nth-child(6){
-	display: none;
-	}
+
 	.top-grid {
 	width: 47.9%;
 	padding-bottom: 0em;
@@ -1348,9 +1346,9 @@ button::-moz-focus-inner {
 	{
 		font-size: 1.1em;
 	}
-	.grid_of_1:nth-child(3) {
+	/* .grid_of_1:nth-child(3) {
 	display: none;
-	}
+	} */
 	.grid_of_1 {
 	width: 39%;
 	margin-left: 20%;
